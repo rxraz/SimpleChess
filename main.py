@@ -1,9 +1,3 @@
-"""
-Use of PyGame was implemented from the pygame user documentation and a small part of a tutorial about creating a game of chess in PyGame.
-The logic of moving pieces was written by me, however the castling and checkmate logic was taken from the internet. 
-I didn't write that part of logic, however I understand how it functions.
-"""
-
 from io import BytesIO
 
 import pygame
